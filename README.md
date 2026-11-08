@@ -25,9 +25,9 @@ My GitHub is being rebuilt around a curated collection of real projects. Each sh
 
 ## Let's Connect
 
-- **Portfolio:** Coming soon
-- **LinkedIn:** Coming soon
-- **Instagram:** Coming soon
+
+- **LinkedIn:** www.linkedin.com/in/alan-dsouza-smm
+- **Instagram:** https://www.instagram.com/alan_dsouza2403/
 
 ---
 
